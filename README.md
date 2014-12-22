@@ -11,4 +11,6 @@ Implementa Algoritmos como:<ul>
 <li>Kruskal</li>
 <li>Coloracion</li>
 <li>Coloracion por fuerza bruta</li>
+<li>Recorrido de Profundidad</li>
+<li>Recorrido de Anchura</li>
 </ul>
